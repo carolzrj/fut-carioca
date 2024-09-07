@@ -34,10 +34,6 @@ Com o Futebol Carioca, você pode...
 * **favicon.ico:** Ícone da página.
 * **Imagens:** Imagens utilizadas na aplicação (logotipos, ícones, etc.).
 
-### **Como Contribuir**
-
-Se você quiser contribuir para este projeto, fique à vontade! Basta fazer um fork do repositório, criar um branch para sua nova feature e enviar um pull request. 
-
 **Ideias para futuras implementações:**
 
 * **Compartilhamento:** Adicionar a possibilidade de compartilhar os resultados nas redes sociais.
