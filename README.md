@@ -12,20 +12,20 @@ Com o Futebol Carioca, você pode...
 * Descobrir os maiores ídolos;
 * Ficar por dentro dos próximos jogos.
 
-### ** Como Funciona**
+### **Como Funciona**
 
 1. **Pesquisa:** Digite o nome do seu time do coração e clique em "ACOMPANHAR".
 2. **Resultados:** A aplicação irá buscar em nosso banco de dados e te mostrar todas as informações disponíveis sobre o time, como história, títulos, ídolos e próximos jogos.
 3. **Explore:** Clique nos links para saber mais sobre os títulos, ídolos e próximos jogos do seu time.
 
-### **️ Tecnologias Utilizadas**
+### **Tecnologias Utilizadas**
 
 * **HTML:** Estrutura da página.
 * **CSS:** Estilização da página, deixando tudo bonito e organizado.
 * **JavaScript:** Lógica da aplicação, responsável por buscar os dados e exibir os resultados.
 * **GitHub Pages:** Hospedagem do projeto para que você possa acessar a aplicação online.
 
-### ** Estrutura do Projeto**
+### **Estrutura do Projeto**
 
 * **index.html:** Página principal da aplicação.
 * **style.css:** Arquivo de estilos CSS.
@@ -34,7 +34,7 @@ Com o Futebol Carioca, você pode...
 * **favicon.ico:** Ícone da página.
 * **Imagens:** Imagens utilizadas na aplicação (logotipos, ícones, etc.).
 
-### ** Como Contribuir**
+### **Como Contribuir**
 
 Se você quiser contribuir para este projeto, fique à vontade! Basta fazer um fork do repositório, criar um branch para sua nova feature e enviar um pull request. 
 
