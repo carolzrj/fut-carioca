@@ -15,7 +15,7 @@ let dados = [
         nome: "Fluminense",
         site: "https://www.fluminense.com.br/site/",
         imagem: "https://logodetimes.com/times/fluminense/logo-fluminense-256.png",
-        historia: "O Fluminense Football Club, fundado em 21 de julho de 1902, é um dos clubes mais tradicionais e importantes do futebol brasileiro. Com uma história rica e vitoriosa, o Tricolor das Laranjeiras conquistou a admiração de milhões de torcedores ao longo de suas décadas de existência. O Fluminense foi um dos primeiros clubes de futebol do Brasil, tendo um papel fundamental na popularização desse esporte no país. O clube foi pioneiro em diversas áreas, como a construção do primeiro estádio de cimento da América Latina, o Estádio das Laranjeiras, que sediou grandes eventos esportivos.",
+        historia: "O Fluminense Football Club, fundado em 21 de julho de 1902, é um dos clubes mais tradicionais e importantes do futebol brasileiro. Com uma história rica e vitoriosa, o Tricolor das Laranjeiras conquistou a admiração de milhões de torcedores ao longo de suas décadas de existência. O Fluminense foi um dos primeiros clubes de futebol do Brasil, tendo um papel fundamental na popularização desse esporte no país. O clube foi pioneiro em diversas áreas, como a construção do primeiro estádio de cimento latino americano, o Estádio das Laranjeiras, que sediou grandes eventos esportivos.",
         linktitulos: "https://www.fluminense.com.br/sobre/principais-titulos",
         titulos: "A Taça Olímpica é um troféu que só o Fluminense possui, sendo a única equipe de futebol do mundo a conquistar este feito. Para saber mais sobre os títulos do time, clique acima.",
         linkidolos: "https://www.esportelandia.com.br/futebol/melhores-jogadores-do-fluminense/",
