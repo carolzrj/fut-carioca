@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Holtwood+One+SC&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+body {
+    font-family: "Bebas Neue", sans-serif;
+    font-style: normal;
+    -webkit-text-stroke: none;
+    background-color: #055920; 
+    background-image: url(https://st.depositphotos.com/1137361/2819/i/600/depositphotos_28190015-stock-photo-soccer-field.jpg); 
+    background-position: center;
+    background-size: 30%;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+    margin: 0;
+    padding: 0;
+    padding-top: 60px;
+}
+header {
+    
+    top: 0;
+    width: 100%;
+    background-color: #ffffff28;
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.3);
+    transition: background-color 0.3s ease-in-out;
+}
+
+header.scrolled {
+    background-color: #f0f0f0;
+  }
+
+h1 {
+    font-family: "Holtwood One SC", system-ui;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 5.8rem; 
+    color: #e8fff0;
+    -webkit-text-stroke: 0.7px #012c0f;
+    text-align: center; 
+    letter-spacing: 0.4rem; 
+}
+
+section {
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    margin-bottom: 1rem; 
+    color:rgb(248, 248, 248);
+    letter-spacing: 0.2rem; 
+}
+section h2 {
+    font-family: "Bebas Neue", system-ui;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 2.2rem;
+    -webkit-text-stroke: 1.5px #012c0f;
+    text-shadow: 0.125rem 0.125rem 0.25rem #000000;
+    letter-spacing: 0.2rem; 
+}
+section input {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    width: 20rem; 
+    border: none; 
+    padding: 1rem; 
+    border-radius: 1.5rem; 
+    margin-bottom: 1rem; 
+    color: #000000; 
+    font-size: 1rem; 
+    box-sizing: border-box; 
+}
+
+section button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    padding: 0.8rem 1.2rem; 
+    border: none; 
+    border-radius: 1.5rem; 
+    background-color: #000000d3; 
+    color: #ffffff; 
+    font-size: 1rem; 
+    cursor: pointer;
+}
+
+section img {
+    width: 6rem; 
+    height: 8rem;
+}
+
+.resultados-pesquisa {
+    width: 60rem;
+    height: 46vh; 
+    overflow-y: auto; 
+    margin-top: 1rem; 
+    padding: 1rem; 
+    border-radius: 0.6rem; 
+}
+
+.item-resultado {
+    background: #d2f5ddd3; 
+    border-radius: 0.6rem; 
+    padding: 1rem; 
+    margin-bottom: 2rem; 
+    box-shadow: 0 0.0625rem 0.0625rem #0000001a; 
+}
+
+.item-resultado h3 {
+    font-family: "Bangers", system-ui;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 3rem;
+    text-shadow: 0.125rem 0.125rem 0.25rem #000000;
+    letter-spacing: 0.5rem; 
+}
+
+
+.item-resultado img {
+    width: 2.5rem;
+    height: 2.5rem;
+    object-fit: contain;
+    margin-bottom: 0rem;
+}
+
+.item-resultado h4 {
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-style: normal;
+    text-shadow: 0.125rem 0.125rem 0.25rem #000000;
+    font-size: 1.3rem;
+    letter-spacing: 0.1rem; 
+}
+
+.item-resultado h5 {
+    font-family: "Roboto", system-ui;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 1.3rem;
+    text-shadow: 0.125rem 0.125rem 0.25rem #000000;
+    letter-spacing: 0.1rem; 
+}
+
+.item-resultado h6 {
+    font-family: "Roboto", system-ui;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 1.3rem;
+    text-shadow: 0.125rem 0.125rem 0.25rem #000000;
+    letter-spacing: 0.1rem; 
+}
+
+.item-resultado a {
+    text-decoration: none;
+    color: #000000; 
+}
+
+.item-resultado a:hover {
+    text-decoration: underline; 
+}
+
+.descricao-meta {
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-size: 1.2rem;
+    font-style: normal;
+    color: #000000; 
+    letter-spacing: 0.1rem;
+    margin: 0.5rem 1; 
+}
+
+.titulos {
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-size: 1.2rem;
+    font-style: normal;
+    color: #000000; 
+    letter-spacing: 0.1rem;
+    margin: 0.5rem 1; 
+}
+
+.idolos {
+    font-family: "Roboto", system-ui;
+    font-weight: 400;
+    font-size: 1.2rem;
+    font-style: normal;
+    color: #000000; 
+    letter-spacing: 0.1rem;
+    margin: 0.5rem 1; 
+}
+
+footer {
+    background-color: #d1f8debd;
+    border-top: 0.2rem groove #012c0f;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    text-align: center;
+    justify-content: center; 
+    align-items: center;
+    color: #000000;
+    font-size: 1rem;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+footer nav ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+}
+footer nav li {
+    margin: 0 1rem;
+}
+
+footer nav a img {
+    width: 2rem; 
+    height: 2rem;
+}
